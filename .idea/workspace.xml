@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a9e2f80-30e3-4df9-83dd-351f19796580" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7Esw4ysswnjKgKOsdpeXjnd4Y" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider/src/main" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cloud.provider.entity" />
+      <recent name="com.cloud.provider.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\testProject\spring-cloud\cloud-provider\src\main" />
+      <recent name="D:\testProject\spring-cloud\cloud-client\src\main" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/health/**" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v3+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.CloudDiscoveryApplication#1">
+    <configuration name="CloudDiscoveryApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/CloudDiscoveryApplication.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CloudClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.client.CloudClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.clouddiscovery.CloudDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.provider.CloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.CloudDiscoveryApplication#1" />
+      <item itemvalue="Spring Boot.CloudClientApplication" />
+      <item itemvalue="Spring Boot.CloudDiscoveryApplication" />
+      <item itemvalue="Spring Boot.CloudProviderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.CloudDiscoveryApplication#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18398269" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a9e2f80-30e3-4df9-83dd-351f19796580" name="Default Changelist" comment="" />
+      <created>1584181942151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584181942151</updated>
+      <workItem from="1584181946729" duration="2974000" />
+      <workItem from="1584184933973" duration="24481000" />
+      <workItem from="1590335068452" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2515" y="171" key="#CloudDiscoveryApplication" timestamp="1584233247258">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2515" y="171" key="#CloudDiscoveryApplication/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584233247258" />
+    <state x="2701" y="214" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584256418376">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2701" y="214" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584256418376" />
+    <state x="2660" y="269" key="FileChooserDialogImpl" timestamp="1584260474216">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="269" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584260474216" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1584259718281">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584259718281" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1584259718280">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584259718280" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1584259718280">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584259718280" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1584259718280">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584259718280" />
+    <state width="1507" height="352" key="GridCell.Tab.1.bottom" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.1.center" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.1.left" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.1.right" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.2.bottom" timestamp="1584258898958">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898958" />
+    <state width="1507" height="352" key="GridCell.Tab.2.center" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.2.left" timestamp="1584258898957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898957" />
+    <state width="1507" height="352" key="GridCell.Tab.2.right" timestamp="1584258898958">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1507" height="352" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584258898958" />
+    <state x="2410" y="178" key="Maven.ArtifactSearchDialog" timestamp="1584200586323">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2410" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584200586323" />
+    <state x="2383" y="165" key="SettingsEditor" timestamp="1584260595249">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2383" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584260595249" />
+    <state x="2567" y="275" width="1008" height="490" key="find.popup" timestamp="1584234354438">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2567" y="275" width="1008" height="490" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584234354438" />
+    <state x="2272" y="192" key="new project wizard" timestamp="1584264351277">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2272" y="192" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584264351277" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-client/src/main/java/com/cloud/client/controller/UserController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
